@@ -4,11 +4,11 @@
 
 ## Deployed to Heroku
 
-- (https://whispering-brushlands-06838.herokuapp.com/)
+* https://whispering-brushlands-06838.herokuapp.com/
 
 ## Requirements
 
-- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
 ## Install
 
